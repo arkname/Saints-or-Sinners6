@@ -1,0 +1,21 @@
+body{
+    background-image: url(../Downloads/pexels-alex-conchillos-3941855.jpg);
+    color:rgb(187, 189, 66);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-size: cover;
+
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 15px;
+}
+a{
+    color: rgb(238, 198, 19);
+    text-decoration: none;
+}
+nav a:hover{
+    color: black
+}
